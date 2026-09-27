@@ -1,101 +1,78 @@
-<h1 align="center">Hi, I'm Tirupati Thusharika 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer • AI/ML & GenAI Enthusiast • Turning Real-World Problems into Practical Software
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071A33,100:0B2A4A&height=180&section=header&text=TIRUPATI%20THUSHARIKA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%2F%20ML%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/thusharika-tirupati-a4519a2bb">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<br>
 
----
+# TIRUPATI THUSHARIKA
 
-# 🚀 About Me
-
-- 🎓 B.Tech in Information Technology, Stanley College of Engineering & Technology for Women, Hyderabad
-- 💻 Building AI-powered and full-stack applications
-- 🤖 Exploring Generative AI, Machine Learning, and Computer Vision
-- 🌱 Continuously learning backend development and modern AI technologies
-- 🤝 Open to collaborating on AI/ML and software development projects
-- 💬 Ask me about Python, Flask, Computer Vision, GenAI, or my projects
-- ⚡ Fun fact: I enjoy turning real-world problems into practical software
-
----
-
-# 🛠️ Featured Projects
-
-| Project | Description |
-|---|---|
-| **GenAI Career Assistant** | AI-powered career analysis application that extracts information from resumes and generates personalized career insights. |
-| **SmartMoney** | Personal finance planner for tracking expenses, organizing savings goals, and planning monthly financial targets. |
-| **NETRA** | AI-powered navigation assistant designed to help visually impaired users understand their surroundings using computer vision. |
-| **Face Recognition Attendance System** | Automated attendance system using facial recognition to identify users and record attendance. |
-| **QR Smart Navigation** | QR-based navigation system that provides location and map information through QR codes. |
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
+### Software Developer · AI / ML · Generative AI
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+Building practical software solutions by combining
+<b>code, artificial intelligence and real-world problem solving.</b>
 </p>
 
-### AI / Machine Learning
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white">
-</p>
+<a href="https://www.linkedin.com/in/thusharika-tirupati-a4519a2bb/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1F33?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
 
-### Backend & Database
+<a href="https://github.com/TirupatiThusharika">
+<img src="https://img.shields.io/badge/GITHUB-0B1F33?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+<br><br>
 
-### Tools
+<img src="https://komarev.com/ghpvc/?username=TirupatiThusharika&label=PROFILE%20VIEWS&color=0B1F33&style=flat-square"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-</p>
+</div>
+
+<br>
 
 ---
 
-# 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=TirupatiThusharika&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TirupatiThusharika&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
+## `01` — ABOUT ME
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TirupatiThusharika&theme=radical&hide_border=false">
-</p>
+<table>
+<tr>
 
----
+<td width="55%" valign="top">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TirupatiThusharika&icon=0&color=1">
-</p>
+### Hello, I'm Thusharika 👋
 
-<p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
+I'm a **Software Developer** interested in building intelligent and useful applications.
+
+My development journey focuses on:
+
+- Artificial Intelligence
+- Generative AI
+- Machine Learning
+- Computer Vision
+- Python development
+- Web applications
+- Problem solving
+
+I enjoy taking an idea, understanding the problem behind it, and turning it into a working software solution.
+
+</td>
+
+<td width="45%" valign="top">
+
+```text
+┌──────────────────────────────┐
+│        DEVELOPER             │
+├──────────────────────────────┤
+│                              │
+│  AI / ML          ████████░░ │
+│  Python           █████████░ │
+│  Development      ████████░░ │
+│  Computer Vision  ███████░░░ │
+│  GenAI            ████████░░ │
+│                              │
+│  BUILD → LEARN → IMPROVE     │
+│                              │
+└──────────────────────────────┘
