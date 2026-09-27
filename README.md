@@ -27,11 +27,12 @@ B.Tech Information Technology candidate (Stanley College of Engineering & Techno
 
 ## Projects
 
-**NETRA**
-AI-powered navigation assistant for visually impaired users, using real-time computer vision to interpret surroundings and guide navigation.
-
-**Face Recognition Attendance System**
-Automated attendance system using facial recognition to identify individuals and log attendance without manual input.
+| Project | Description | Technologies | Link |
+|---|---|---|---|
+| **GenAI Career Assistant** | AI-powered career assistant that analyzes uploaded resumes and generates structured career insights using Generative AI. | Python, Flask, Gemini API, PyMuPDF | [Repo](https://github.com/TirupatiThusharika/GenAI-Career-Assistant) |
+| **SmartMoney** | Personal finance planning application for organizing income, expenses, savings, and financial goals. | Python, Flask, HTML, CSS | [Repo](https://github.com/TirupatiThusharika/SmartMoney) |
+| **NETRA** | AI-assisted Android application concept for object detection, obstacle awareness, and voice interaction for visually impaired users. | Kotlin, CameraX, TensorFlow Lite, ML Kit | — |
+| **Face Recognition Attendance** | Computer-vision based attendance management system using face recognition, with a Flask backend and MySQL database. | Python, OpenCV, Flask, MySQL | — |
 
 ---
 
