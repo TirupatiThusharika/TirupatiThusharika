@@ -13,6 +13,11 @@
 
 B.Tech Information Technology candidate (Stanley College of Engineering & Technology for Women, Hyderabad, 2022–2026) focused on applied AI/ML and full-stack development. Experience spans computer vision, backend engineering, and internship work in AI operations. Open to roles and collaborations in AI/ML and software development.
 
+**Currently:**
+- Building AI-powered and full-stack applications
+- Learning Generative AI, applied ML, and backend engineering
+- Open to collaboration on AI/ML and software development projects
+
 ---
 
 ## Experience
